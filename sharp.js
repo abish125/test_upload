@@ -8,6 +8,24 @@
         "vertices": 8,
         "version": 3
     },
+    "scale" : 1.000000,
+
+    "materials" : [ {
+        "DbgColor" : 15658734,
+        "DbgIndex" : 0,
+        "DbgName" : "SVGMat.001",
+        "blending" : "NormalBlending",
+        "colorAmbient" : [0.3294117738218869, 0.6243137452649137, 0.3607843214390325],
+        "colorDiffuse" : [0.3294117738218869, 0.6243137452649137, 0.3607843214390325],
+        "colorSpecular" : [0.5, 0.5, 0.5],
+        "depthTest" : true,
+        "depthWrite" : true,
+        "shading" : "Lambert",
+        "specularCoef" : 50,
+        "transparency" : 1.0,
+        "transparent" : false,
+        "vertexColors" : false
+    }],
     "faces": [33,0,1,2,3,0,1,2,3,33,4,7,6,5,4,5,6,7,33,0,4,5,1,0,4,7,1,33,1,5,6\
 ,2,1,7,6,2,33,2,6,7,3,2,6,5,3,33,4,0,3,7,4,0,3,5],
     "uvs": [],
