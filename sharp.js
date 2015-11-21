@@ -8,7 +8,7 @@
         "vertices": 8,
         "version": 3
     },
-    "scale" : 1.000000,
+    "scale" : 100.000000,
 
     "materials" : [ {
         "DbgColor" : 15658734,
